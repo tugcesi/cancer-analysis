@@ -1,0 +1,39 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*.$py.class
+
+# C extensions
+*.so
+
+# Distribution / packaging
+.Python
+env/
+bin/
+include/
+library.zip
+lib/
+lib64/
+share/
+.eggs/
+*.egg-info/
+dist/
+build/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
+
+# Pytest
+.cache
+
+# Coverage
+.coverage
+.coverage.*
+*.cover
+*.py,cover
+
+# Django stuff:
+*.log
+*.pot
+*.pyc
+__pycache__/
